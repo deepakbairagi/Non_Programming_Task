@@ -1,0 +1,6 @@
+Generally if we check history in linx by command so it gives us output that have terminal history with serial number.
+If we want to see the history with time and date then we use the following command:-
+$HISTTIMEFORMAT="%d/%m/%y %T "
+then again,
+$history
+this time the terminal give the history with time
